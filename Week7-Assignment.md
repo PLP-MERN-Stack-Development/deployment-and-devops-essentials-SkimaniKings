@@ -1,12 +1,3 @@
-## Project Screenshots 
-
-
-### login page
-![network scan](login_page.png)
-
-### chat page
-![network scan](chat_page.png)
-
 # 🚀 Week 7: Deployment and DevOps Essentials – Launching Your MERN App
 
 ## 🚀 Objective
